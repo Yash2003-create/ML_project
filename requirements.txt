@@ -1,0 +1,18 @@
+# Core FastAPI and Uvicorn for API functionality
+fastapi==0.115.6
+uvicorn==0.34.0
+
+# Data manipulation and processing
+numpy==1.26.4
+pandas==2.2.3
+
+# Machine Learning dependencies
+scikit-learn==1.6.0
+torch==2.4.1
+torchvision==0.19.1
+
+# Logging and monitoring
+python-json-logger==3.2.1
+
+# Visualization (if needed)
+matplotlib==3.9.2
