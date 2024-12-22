@@ -3,9 +3,9 @@
 ## Contact Information
 - Name: Yashaswini Sai
 - Email: yashaswinisai96@gmail.com
-- Phone: +1 (123) 456-7890
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- GitHub: [Your GitHub Profile](https://github.com/your-profile)
+- Phone: +1(716)4009390
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yashaswini-guntupalli-7746ab24b/)
+- GitHub: [Your GitHub Profile](https://github.com/Yash2003-create)
 
 ---
 
@@ -29,7 +29,7 @@ Duration: Aug 2024 – Present
 - Conducted workshops on LinkedIn optimization and professional networking.
 
 ### Data Science Intern  
-XYZ Corporation  
+Amazon India  
 Duration: May 2024 – Aug 2024  
 - Developed predictive models using Python and machine learning techniques.
 - Collaborated with cross-functional teams to deploy solutions for business challenges.
@@ -71,5 +71,7 @@ Duration: May 2024 – Aug 2024
 ## Links
 - MLFlow/DagsHub Experiments: [Experiment Link](https://dagshub.com/your-experiment)
 - Docker Hub Container: [Docker Image](https://hub.docker.com/r/your-container)
-- Streamlit App: [Streamlit App](https://your-streamlit-app.com)
-- Deployed Model: [Model Deployment](https://your-model-deployment.com)
+- Streamlit App: [Streamlit App](https://your-streamlit-app.com), currently stream-lit is working on local   http:localhost:8501/
+- Deployed Model: [Model Deployment](https://vercel.com/yashaswinis-projects-cd71344c)
+- Github totalcode - https://github.com/Yash2003-create
+- DagsHub - https://dagshub.com/yashaswiniguntupalli/ML_Final_Project.mlflow
